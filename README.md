@@ -45,4 +45,5 @@
     * 将"case块运行顺序"复制到simple_decode.js中
     * 运行`node simple_decode.js`，输出反混淆文件
     
-    
+    验证反混淆是否成功：
+    * 运行`node decode_result.js`，检查输出结果和原文件是否相同。一致则说明反混淆成功
