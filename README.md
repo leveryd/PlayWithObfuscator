@@ -1,3 +1,5 @@
+文档见 [反混淆"控制流平坦化"思路及实践](https://mp.weixin.qq.com/s/FnB1z1Kja3bq0Tjr_g1zvg)
+
 * 本仓库是什么？
 
     本仓库记录Javascript反混淆的实践，只是demo阶段。
